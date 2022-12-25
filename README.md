@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=TheLime1&color=yellow)
 - 👋 Hi, I’m @TheLime1
 - 👀 I’m interested in CyberSec
 - 🌱 I’m currently learning C/Unity
