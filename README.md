@@ -14,6 +14,7 @@
 <a href="https://twitter.com/lime1_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lime1_xd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aymen-hmani-17362a1b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymen-hmani-17362a1b4" height="30" width="40" /></a>
 <a href="https://fb.com/lime1xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lime1xd" height="30" width="40" /></a>
+<a href="https://dev.to/thelime1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thelime1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
