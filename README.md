@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TheLime1</h1>
-<h3 align="center">A computer science student at ESPRIT</h3>
+<h3 align="center">A Computer Engineering Student at ESPRIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=0e75b6&style=flat" alt="thelime1" /> </p>
 
