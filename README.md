@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/lime1_xd" target="blank"><img src="https://img.shields.io/twitter/follow/lime1_xd?logo=twitter&style=for-the-badge" alt="lime1_xd" /></a> </p>
 
-- 🌱 I’m currently learning **C and unity**
-
 - 📫 How to reach me **hmani.aymen@esprit.tn**
 
 <h3 align="left">Connect with me:</h3>
