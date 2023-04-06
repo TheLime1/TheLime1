@@ -1,11 +1,25 @@
-<h1 align="center">Hi 👋, I'm TheLime1</h1>
+<h1 align="center">Hi 👋, Aymen Hmani</h1>
 <h3 align="center">A Computer Engineering Student at ESPRIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=0e75b6&style=flat" alt="thelime1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=0e75b6&style=flat" alt="thelime1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/lime1_xd" target="blank"><img src="https://img.shields.io/twitter/follow/lime1_xd?logo=twitter&style=for-the-badge" alt="lime1_xd" /></a> </p>
+## 🔭 Skills
 
-- 📫 How to reach me **hmani.aymen@esprit.tn**
+- Python
+- Cybersecurity
+- Server infrastructure
+- Automation
+- APIs
+- Networking
+
+## 🌱 Experience
+
+- 3 years of experience in cybersecurity and server infrastructure management
+- Developed and sold automation scripts utilizing open source APIs
+
+## 📫 Contact Me
+
+You can reach me at my email address [hmani.aymen@esprit.tn]. I am open to collaborating on projects and expanding my skillset. Let's connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,8 +32,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=true&theme=dark&locale=en&layout=compact" alt="thelime1" /></p>
-
-<p>
-<a href="https://skyline.github.com/thelime1/2022?annotation0=2022-04-16,2022-05-07,Vito%20bot%20script&annotation1=2022-05-08,2022-05-16,my%20BAC%20prep%20%3A%29&annotation2=2022-10-10,2022-12-29,Welcome%20to%20Esprit%20-%20Code%20repos%20gained%20more%20than%202k%20views%20%3C3&annotation3=2022-01-31,2022-01-31,my%20first%20malware%20coded%20in%20python-thanks%20to%20%40AnzeSinigoj">2022 GitHub Skyline</a>
-</p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=true&theme=dark&locale=en&layout=compact" alt="thelime1" /></p>
