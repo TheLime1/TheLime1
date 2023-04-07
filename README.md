@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Aymen Hmani</h1>
+<h1 align="center">Hi 👋, im Aymen Hmani</h1>
 <h3 align="center">A Computer Engineering Student at ESPRIT</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=0e75b6&style=flat" alt="thelime1" /> </p>
