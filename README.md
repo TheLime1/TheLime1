@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, im Aymen Hmani</h1>
 <h3 align="center">A Computer Engineering Student at ESPRIT</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=0e75b6&style=flat" alt="thelime1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=d1b000&style=flat" alt="thelime1" /> </p>
 
 <a href="https://app.daily.dev/Lime1"><img align="right" src="https://api.daily.dev/devcards/e35260a8a326420ab36b4f08558ae6fe.png?r=os8" width="325" alt="Aymen Hmani's Dev Card"/></a>
 
