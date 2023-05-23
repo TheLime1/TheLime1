@@ -8,6 +8,7 @@
 ## 🔭 Skills
 
 - Python
+- Linux
 - Cybersecurity
 - Server infrastructure
 - Automation
@@ -16,7 +17,7 @@
 
 ## 🌱 Experience
 
-- 3 years of experience in cybersecurity and server infrastructure management
+- Experienced in cybersecurity and server infrastructure management
 - Developed and sold automation scripts utilizing open source APIs
 
 ## 📫 Contact Me
