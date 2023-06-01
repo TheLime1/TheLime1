@@ -19,3 +19,8 @@ jobs:
           plugin_notable_from: all
           plugin_achievements: yes
           plugin_achievements_display: detailed
+          plugin_posts: yes
+          plugin_posts_sources: dev.to
+          plugin_posts_limit: 5
+          config_options: >
+            user: thelime1
