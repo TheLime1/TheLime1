@@ -15,5 +15,7 @@ jobs:
       - uses: thelime1/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_notable: yes
+          plugin_notable_from: all
           plugin_achievements: yes
           plugin_achievements_display: detailed
