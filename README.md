@@ -39,3 +39,21 @@ You can reach me at my email address [hmani.aymen@esprit.tn]. I am open to colla
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=false&theme=dark&locale=en&layout=compact" /></p>
 
 <p align="left"><img src=https://github-readme-streak-stats.herokuapp.com/?user=TheLime1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ffd700&fire=lime&currStreakLabel=ffd700&bg_color=30,e96443,904e95&title_color=fff&text_color=fff/></p>
+
+<details>
+<summary>More</summary>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+
+## Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  </div>
+  <div>
+
+![metrics](github-metrics.svg)
+  </div>
+</div>
+
+</details>
