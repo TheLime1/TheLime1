@@ -42,4 +42,5 @@ You can reach me at my email address [hmani.aymen@esprit.tn]. I am open to colla
 
 <details>
 <summary>More</summary>
+![metrics](github-metrics.svg)
 </details>
