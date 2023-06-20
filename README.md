@@ -42,5 +42,18 @@ You can reach me at my email address [hmani.aymen@esprit.tn]. I am open to colla
 
 <details>
 <summary>More</summary>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+
+## Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  </div>
+  <div>
+
 ![metrics](github-metrics.svg)
+  </div>
+</div>
+
 </details>
