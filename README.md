@@ -18,6 +18,7 @@
 
 ## 📰 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make a Self-Replicating Virus in C](https://dev.to/thelime1/make-a-self-replicating-virus-in-c-15b6)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Me
