@@ -18,6 +18,7 @@
 
 ## 📰 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I gained $2,000 in 3 weeks using custom-built CS:GO trading bot](https://dev.to/thelime1/how-i-gained-2k-in-3-weeks-using-custom-built-csgo-trading-bot-3j8g)
 - [Make a Self-Replicating Virus in C](https://dev.to/thelime1/make-a-self-replicating-virus-in-c-15b6)
 <!-- BLOG-POST-LIST:END -->
 
