@@ -16,10 +16,9 @@
 - APIs
 - Networking
 
-## 🌱 Experience
-
-- Experienced in cybersecurity and server infrastructure management
-- Developed and sold automation scripts utilizing open source APIs
+## 📰 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Contact Me
 
@@ -43,18 +42,5 @@ You can reach me at my email address [hmani.aymen@esprit.tn]. I am open to colla
 <details>
 <summary>More</summary>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-
-## Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Make a Self-Replicating Virus in C](https://dev.to/thelime1/make-a-self-replicating-virus-in-c-15b6)
-<!-- BLOG-POST-LIST:END -->
-  </div>
-  <div>
-
 ![metrics](github-metrics.svg)
-  </div>
-</div>
-
 </details>
