@@ -25,7 +25,7 @@
 
 
 
-<h3 align="left">Stack:</h3>
+## 📚 Stack:
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=bash,css,html,python,c,js,markdown,flutter,powershell,regex,sass&perline=11)](https://skillicons.dev)
