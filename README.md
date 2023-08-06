@@ -23,6 +23,8 @@
 - [Make a Self-Replicating Virus in C](https://dev.to/thelime1/make-a-self-replicating-virus-in-c-15b6)
 <!-- BLOG-POST-LIST:END -->
 
+
+
 <h3 align="left">Stack:</h3>
 <p align="left">
 
@@ -30,7 +32,7 @@
  </p>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,ae,ps,arduino,git,github,githubactions,mysql,postman,qt,sketchup&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,ae,ps,arduino,git,github,githubactions,mysql,postman,qt,sketchup&perline=20)](https://skillicons.dev)
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=false&theme=dark&locale=en&layout=compact" /></p>
