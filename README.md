@@ -28,11 +28,11 @@
 ## 📚 Stack:
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,css,html,python,c,js,markdown,flutter,powershell,regex,sass&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,html,python,c,cpp,js,markdown,flutter,powershell,regex,sass&perline=12)]()
  </p>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,ae,ps,arduino,git,github,githubactions,mysql,postman,qt,sketchup&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,ae,ps,arduino,git,github,githubactions,mysql,postman,qt,sketchup&perline=20)]()
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=false&theme=dark&locale=en&layout=compact" /></p>
