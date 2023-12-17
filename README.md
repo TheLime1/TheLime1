@@ -25,6 +25,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+## 🌐 Socials:
+<p align="left">
+
+[![stack overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23000256/aymen-hmani)
+[![dev.tp](https://skillicons.dev/icons?i=devto)](https://dev.to/thelime1)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aymen-hmani/)
+ </p>
 
 ## 📚 Stack:
 <p align="left">
@@ -33,7 +40,7 @@
  </p>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,ae,ps,arduino,git,github,githubactions,mysql,postman,qt,sketchup&perline=20)]()
+[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,ae,ps,arduino,git,github,githubactions,mysql,postman,qt,sketchup,gcp&perline=20)]()
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=false&theme=dark&locale=en&layout=compact" /></p>
