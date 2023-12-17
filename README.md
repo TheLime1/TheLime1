@@ -4,6 +4,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=d1b000&style=flat" alt="thelime1" /> <a href="https://wakatime.com/@f527ccc3-e589-4baf-8918-702b4f1b7a1d"><img src="https://wakatime.com/badge/user/f527ccc3-e589-4baf-8918-702b4f1b7a1d.svg" alt="Total time coded since Jun 1 2023" /></a> </p>
 
+<p align="center">
+
+[![stack overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23000256/aymen-hmani)
+[![dev.tp](https://skillicons.dev/icons?i=devto)](https://dev.to/thelime1)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aymen-hmani/)
+ </p>
+
 <a href="https://app.daily.dev/lime1"><img align="right" src="https://github.com/TheLime1/TheLime1/blob/main/devcard.svg" width="325" alt="Aymen Hmani's Dev Card"/></a>
 
 ## 🔭 Skills
