@@ -22,6 +22,7 @@
 [![stack overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23000256/aymen-hmani)
 [![dev.tp](https://skillicons.dev/icons?i=devto)](https://dev.to/thelime1)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aymen-hmani/)
+[![huggingface](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/huggingface.svg)](https://huggingface.co/Lime1)
  </p>
 
 ## 📰 Latest Blog posts
@@ -35,7 +36,7 @@
 ## 📚 Stack:
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,css,html,python,c,cpp,js,markdown,flutter,powershell,regex,sass&perline=12)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,css,html,python,c,cpp,js,markdown,flutter,powershell,regex,sass,svg&perline=13)]()
  </p>
 <p align="left">
 
