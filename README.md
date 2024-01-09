@@ -45,7 +45,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=false&theme=dark&bg_color=00000000&hide_border=true&locale=en&layout=compact" /></p>
 
-<p align="left"><img src=https://github-readme-streak-stats.herokuapp.com/?user=TheLime1&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ffd700&fire=lime&currStreakLabel=ffd700&bg_color=30,e96443,904e95&title_color=fff&text_color=fff/></p>
+<p align="left"><img src=https://github-readme-streak-stats.herokuapp.com/?user=TheLime1&theme=black-ice&hide_border=true&stroke=0000&background=00000000&ring=ffd700&fire=lime&currStreakLabel=ffd700&bg_color=30,e96443,904e95&title_color=fff&text_color=fff/></p>
 
 <details>
 <summary>More</summary>
