@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, im Aymen Hmani</h1>
 <h3 align="center">A Computer Engineering Student at ESPRIT</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=a88eff&style=flat" alt="thelime1" /> <a><img src="https://custom-icon-badges.demolab.com/github/stars/thelime1?color=ceb011&style=Star-yellow.svg&logo=star"/></a><a href="https://user-badge.committers.top/tunisia/TheLime1">
+<p align="center"> <a><img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=a88eff&style=flat" alt="thelime1" /></a> <a href="https://github.com/TheLime1?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/thelime1?color=ceb011&style=Star-yellow.svg&logo=star"/></a><a href="https://user-badge.committers.top/tunisia/TheLime1">
 <img src="https://user-badge.committers.top/tunisia/TheLime1.svg" alt="committers.top Tunisia">
 </a><a href="https://wakatime.com/@f527ccc3-e589-4baf-8918-702b4f1b7a1d"><img src="https://wakatime.com/badge/user/f527ccc3-e589-4baf-8918-702b4f1b7a1d.svg" alt="Total time coded since Jun 1 2023" /></a> </p>
 
