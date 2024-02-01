@@ -38,11 +38,11 @@
 ## 📚 Stack:
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,html,css,js,php,markdown,flutter,powershell,regex,sass,svg&perline=14)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,html,css,js,php,markdown,powershell,regex,sass,svg&perline=14)]()
  </p>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,ae,ps,arduino,git,github,githubactions,mysql,postman,qt,sketchup,gcp&perline=20)]()
+[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,arduino,git,github,githubactions,mysql,qt,gcp&perline=20)]()
 ![Oracale](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Oracle-Dark.svg)
 </p>
 
