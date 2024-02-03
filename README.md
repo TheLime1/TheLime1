@@ -11,7 +11,6 @@
 
 - Python
 - Linux
-- Cybersecurity
 - Server infrastructure
 - Automation
 - APIs
