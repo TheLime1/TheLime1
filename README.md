@@ -15,6 +15,8 @@
 - Automation
 - APIs
 - Networking
+- Prompt engineering
+- Reverse engineering
 
 ## 🌐 Socials:
 <p align="left">
