@@ -18,7 +18,7 @@
 - Networking
 - Prompt engineering
 
-## 🌐 Socials:
+## 🌐 Socials
 <p align="left">
 
 [![stack overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23000256/aymen-hmani)
@@ -36,7 +36,8 @@
 - [Make a Self-Replicating Virus in C](https://dev.to/thelime1/make-a-self-replicating-virus-in-c-15b6)
 <!-- BLOG-POST-LIST:END -->
 
-## 📚 Stack:
+## 📚 Stack
+
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,html,css,js,php,markdown,powershell,regex,sass,svg&perline=14)]()
@@ -47,7 +48,7 @@
 ![Oracale](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Oracle-Dark.svg)
 </p>
 
-## 🛠️ frameworks:
+## 🛠️ Frameworks
 
 <p align="left">
 
