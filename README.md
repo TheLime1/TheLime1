@@ -3,7 +3,8 @@
 
 <p align="center"> <a><img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=a88eff&style=flat" alt="thelime1" /></a> <a href="https://github.com/TheLime1?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/thelime1?color=ceb011&style=Star-yellow.svg&logo=star"/></a><a href="https://user-badge.committers.top/tunisia/TheLime1">
 <img src="https://user-badge.committers.top/tunisia/TheLime1.svg" alt="committers.top Tunisia">
-</a><a href="https://wakatime.com/@f527ccc3-e589-4baf-8918-702b4f1b7a1d"><img src="https://wakatime.com/badge/user/f527ccc3-e589-4baf-8918-702b4f1b7a1d.svg" alt="Total time coded since Jun 1 2023" /></a> </p>
+</a><a href="https://wakatime.com/@f527ccc3-e589-4baf-8918-702b4f1b7a1d"><img src="https://wakatime.com/badge/user/f527ccc3-e589-4baf-8918-702b4f1b7a1d.svg" alt="Total time coded since Jun 1 2023" /></a> <img src="https://api.statusbadges.me/badge/vscode/554975773086318592" alt="vscode">
+ </p>
 
 <a href="https://app.daily.dev/lime1"><img align="right" src="https://github.com/TheLime1/TheLime1/blob/main/devcard.svg" width="325" alt="Aymen Hmani's Dev Card"/></a>
 
@@ -44,6 +45,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,arduino,git,github,githubactions,mysql,qt,gcp&perline=20)]()
 ![Oracale](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Oracle-Dark.svg)
+</p>
+
+## 🛠️ frameworks:
+
+<p align="left">
+
+[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,jquery&perline=20)]()
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=false&theme=dark&bg_color=00000000&hide_border=true&locale=en&layout=compact" /></p>
