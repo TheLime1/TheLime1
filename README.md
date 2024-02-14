@@ -40,7 +40,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,html,css,js,php,markdown,powershell,regex,sass,svg&perline=14)]()
+[![My Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,html,css,js,php,markdown,powershell,regex,svg&perline=14)]()
  </p>
 <p align="left">
 
