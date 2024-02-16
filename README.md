@@ -52,7 +52,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap,jquery&perline=20)]()
+[![My Skills](https://skillicons.dev/icons?i=flask,selenium,bootstrap,jquery&perline=20)]()
 </p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelime1&show_icons=false&theme=dark&bg_color=00000000&hide_border=true&locale=en&layout=compact" /></p>
