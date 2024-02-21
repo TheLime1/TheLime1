@@ -6,7 +6,7 @@
 </a><a href="https://wakatime.com/@f527ccc3-e589-4baf-8918-702b4f1b7a1d"><img src="https://wakatime.com/badge/user/f527ccc3-e589-4baf-8918-702b4f1b7a1d.svg" alt="Total time coded since Jun 1 2023" /></a> <img src="https://api.statusbadges.me/badge/vscode/554975773086318592" alt="vscode">
  </p>
 
-<a href="https://app.daily.dev/lime1"><img align="right" src="https://github.com/TheLime1/TheLime1/blob/main/devcard.svg" width="325" alt="Aymen Hmani's Dev Card"/></a>
+<a href="https://app.daily.dev/lime1"><img align="right" src="./devcard.png" width="356" alt="Aymen Hmani's Dev Card"/></a>
 
 ## 🔭 Skills
 
