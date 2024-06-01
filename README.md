@@ -29,10 +29,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="25" height="25" /> Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Integrate Your Poe.com Ai Bot into Your Website: A Step-by-Step Guide](https://dev.to/thelime1/how-to-integrate-your-poecom-ai-bot-into-your-website-a-step-by-step-guide-32m3)
 - [My &quot;solution&quot; to integrate ChatGPT into any database](https://dev.to/thelime1/my-solution-to-integrate-chatgpt-into-any-database-8lb)
 - [Building an Infinite Website with Flask and OpenAI&#39;s davinci-v3](https://dev.to/thelime1/building-an-infinite-website-with-flask-and-openais-davinci-v3-23ja)
 - [How I gained $2,000 in 3 weeks using custom-built CS:GO trading bot](https://dev.to/thelime1/how-i-gained-2k-in-3-weeks-using-custom-built-csgo-trading-bot-3j8g)
-- [Make a Self-Replicating Virus in C](https://dev.to/thelime1/make-a-self-replicating-virus-in-c-15b6)
 <!-- BLOG-POST-LIST:END -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Stack
