@@ -5,7 +5,7 @@
 
 <p align="center"> <a><img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20views&color=a88eff&style=flat" alt="thelime1" /></a> <a href="https://github.com/TheLime1?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/thelime1?color=ceb011&style=Star-yellow.svg&logo=star"/></a><a href="https://user-badge.committers.top/tunisia/TheLime1">
 <img src="https://user-badge.committers.top/tunisia/TheLime1.svg" alt="committers.top Tunisia">
-</a><a href="https://wakatime.com/@f527ccc3-e589-4baf-8918-702b4f1b7a1d"><img src="https://wakatime.com/badge/user/f527ccc3-e589-4baf-8918-702b4f1b7a1d.svg" alt="Total time coded since Jun 1 2023" /></a> <img src="https://api.statusbadges.me/badge/vscode/554975773086318592" alt="vscode">
+</a><a href="https://wakatime.com/@f527ccc3-e589-4baf-8918-702b4f1b7a1d"><img src="https://wakatime.com/badge/user/f527ccc3-e589-4baf-8918-702b4f1b7a1d.svg" alt="Total time coded since Jun 1 2023" /></a>
  </p>
 
 
@@ -47,11 +47,11 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,c,cpp,html,css,js,php,markdown,powershell,regex,svg&perline=14)]()
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash,&perline=14)]()
  </p>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=azure,vscode,linux,arduino,git,github,githubactions,mysql,qt,gcp&perline=20)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,arduino,git,githubactions,mysql,qt,azure&perline=20)]()
 ![Oracale](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Oracle-Dark.svg)
 </p>
 
@@ -59,7 +59,7 @@
 
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=flask,selenium,bootstrap,jquery&perline=20)]()
+[![My Skills](https://skillicons.dev/icons?i=symfony,flask,selenium,bootstrap,jquery&perline=20)]()
 </p>
 
 <img src="https://raw.githubusercontent.com/TheLime1/TheLime1/metric/achievements.svg">
