@@ -55,6 +55,10 @@
 ![Oracale](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Oracle-Dark.svg)
 </p>
 
+![Jupyter](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Jupyter.svg)
+</p>
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Frameworks
 
 <p align="left">
