@@ -51,7 +51,7 @@
  </p>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arduino,git,githubactions,mysql,qt,azure&perline=20)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,arduino,git,githubactions,mysql,qt,anaconda,azure&perline=20)]()
 ![Oracale](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Oracle-Dark.svg)
 </p>
 
