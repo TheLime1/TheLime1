@@ -64,5 +64,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=symfony,flask,selenium,bootstrap,jquery&perline=20)]()
 </p>
-
-<img src="https://raw.githubusercontent.com/TheLime1/TheLime1/metric/achievements.svg">
