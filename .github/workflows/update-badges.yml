@@ -16,10 +16,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.4.0
+        uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: aymen-hmani.45979b40
           CREDLY_SORT: RECENT
           BADGE_SIZE: 110
+          COMMIT_MESSAGE: "Updated README with Credly badges"
