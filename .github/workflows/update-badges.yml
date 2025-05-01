@@ -1,9 +1,12 @@
 name: Update badges
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
+    # Runs at 0am UTC every Sunday
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 jobs:
