@@ -1,5 +1,4 @@
-name: Update badges
-
+name: Update Readme Actions
 on:
   schedule:
     # Runs at 0am UTC every Monday
@@ -7,19 +6,22 @@ on:
   # Allows manual triggering from the Actions tab
   workflow_dispatch:
 
+# Necessary permissions
+permissions:
+  contents: write
+
 jobs:
   update-readme:
-    name: Update Readme with badges
+    name: Update Readme with Badges
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Badges - Readme
+      - name: Badges - README
         uses: pemtajo/badge-readme@main
         with:
+          CREDLY_USER: "thelime1"
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CREDLY_USER: thelime1
-          BADGE_SIZE: 110 # optional, default is 110
+          # Optional parameters
+          BADGE_SIZE: 110
