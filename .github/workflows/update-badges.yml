@@ -1,0 +1,22 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@2.4.0
+        with:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          CREDLY_USER: aymen-hmani.45979b40
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 110
