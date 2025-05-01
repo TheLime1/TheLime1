@@ -22,7 +22,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: "thelime1"
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Optional parameters
           BADGE_SIZE: 110
           CREDLY_SORT: POPULAR
