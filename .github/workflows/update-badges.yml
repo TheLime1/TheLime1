@@ -20,6 +20,5 @@ jobs:
         uses: pemtajo/badge-readme@2.4.0
         with:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          CREDLY_USER: aymen-hmani.45979b40
           CREDLY_SORT: RECENT
           BADGE_SIZE: 110
