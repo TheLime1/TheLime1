@@ -23,7 +23,7 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CREDLY_USER: aymen-hmani.45979b40
+          CREDLY_USER: aymen-hmani
           CREDLY_SORT: RECENT
           BADGE_SIZE: 110
           COMMIT_MESSAGE: "Updated README with Credly badges"
