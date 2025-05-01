@@ -66,5 +66,6 @@
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Medal.png" alt="Medal" width="25" height="25" /> Certifications & Badges
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
