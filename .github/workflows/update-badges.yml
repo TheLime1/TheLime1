@@ -26,3 +26,4 @@ jobs:
           # Optional parameters
           BADGE_SIZE: 110
           CREDLY_SORT: POPULAR
+          NUMBER_LAST_BADGES: 10
