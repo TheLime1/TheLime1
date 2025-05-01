@@ -1,29 +1,24 @@
 name: Update badges
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     # Runs at 0am UTC every Sunday
     - cron: "0 0 * * 0"
   workflow_dispatch:
-
+    inputs:
+      logLevel:
+        description: "Log level"
+        required: true
+        default: "warning"
+      tags:
+        description: "Test scenario tags"
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CREDLY_USER: aymen-hmani
-          CREDLY_SORT: RECENT
-          BADGE_SIZE: 110
-          COMMIT_MESSAGE: "Updated README with Credly badges"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BADGE_SIZE: 100
