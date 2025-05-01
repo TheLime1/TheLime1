@@ -14,5 +14,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BADGE_SIZE: 110 # optional, default is 110
