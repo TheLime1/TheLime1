@@ -21,4 +21,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CREDLY_USER: thelime1
           BADGE_SIZE: 110 # optional, default is 110
