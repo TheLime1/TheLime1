@@ -68,4 +68,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Certifications & Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/a196258e-7d57-4f8b-b5c5-c55835c5c6c7" title="GitHub Foundations"><img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/f12f3068-468f-4b19-90c4-bb92bbc881b9" title="Introduction to Cybersecurity Tools & Cyber Attacks"><img src="https://images.credly.com/size/80x80/images/5ed0eac3-8986-4fab-a16b-cab70d4a920e/blob" alt="Introduction to Cybersecurity Tools & Cyber Attacks" width="80" height="80"></a>
 <!--END_SECTION:badges-->
