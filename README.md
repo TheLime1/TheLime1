@@ -5,7 +5,7 @@
 
 <p align="center"> <a><img src="https://komarev.com/ghpvc/?username=thelime1&label=Profile%20Views&color=a88eff&style=flat" alt="thelime1" /></a> <a href="https://github.com/TheLime1?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/thelime1?color=ceb011&style=Star-yellow.svg&logo=star"/></a><a href="https://user-badge.committers.top/tunisia/TheLime1">
 <a href="https://gitista.com/tunisia/">
-  <img src="https://img.shields.io/badge/Github%20Rank%20(Tunisia)-%237-blue?logo=github&labelColor=2c2c2c&style=flat" alt="GitHub Rank (Tunisia)" />
+  <img src="https://img.shields.io/badge/Github%20Rank%20(Tunisia)-%236-blue?logo=github&labelColor=2c2c2c&style=flat" alt="GitHub Rank (Tunisia)" />
 </a>
 </a><a href="https://wakatime.com/@f527ccc3-e589-4baf-8918-702b4f1b7a1d"><img src="https://wakatime.com/badge/user/f527ccc3-e589-4baf-8918-702b4f1b7a1d.svg" alt="Total time coded since Jun 1 2023" /></a>
  </p>
