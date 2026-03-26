@@ -26,6 +26,16 @@
   </tr>
 </table>
 
+## 🚀 Current Platforms & Projects
+
+- **Owner & Founder:** Building [espritads.site](https://espritads.site), an expanding SaaS and campus ecosystem.
+- **Are you an ESPRIT student?** Check out [portal.espritads.site](https://portal.espritads.site) for an upgraded student dashboard to track grades, schedules, and find empty classrooms.
+
+## 🛠️ Stuff I Enjoyed Making
+
+- **AI API Reverse Engineering:** Reverse-engineered the Poe API to get free access to ChatGPT Pro and Claude, contributing to [ading2210/poe-api](https://github.com/ading2210/poe-api). I also brute-forced API keys to build [TheLime1/aichat-cli](https://github.com/TheLime1/aichat-cli)—which was the very first "hacked" AI CLI tool available right after ChatGPT released.
+- **Huawei LTE Router Hacking:** Reverse-engineered Huawei LTE routers and contributed core functionality to [Salamek/huawei-lte-api](https://github.com/Salamek/huawei-lte-api). I specifically added endpoints to block MAC addresses just so I could cut the Wi-Fi on other clients whenever I open CS:GO. Priorities. 🎯
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Socials
 <p align="left">
 
@@ -45,31 +55,9 @@
 - [My &quot;solution&quot; to integrate ChatGPT into any database](https://dev.to/thelime1/my-solution-to-integrate-chatgpt-into-any-database-8lb)
 <!-- BLOG-POST-LIST:END -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Stack
+<details>
+  <summary>About</summary>
 
-<p align="left">
+  Computer science engineering student specializing in back-end and data‐driven application development. Recognized as one of the top 10 GitHub contributors in Tunisia, with 20K+ open‐source library downloads and 10K+ blog views. Experienced in building scalable, AI‐enhanced platforms and automation tools that deliver real‐world impact
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,bash,&perline=14)]()
- </p>
-<p align="left">
-
-<p align="left">
-
-  [![My Skills](https://skillicons.dev/icons?i=linux,arduino,git,githubactions,mysql,qt,anaconda,azure&perline=20)]()
-  ![Oracale](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Oracle-Dark.svg)
-  ![Jupyter](https://raw.githubusercontent.com/TheLime1/skill-icons/main/icons/Jupyter.svg)
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Frameworks
-
-<p align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=symfony,flask,selenium,bootstrap,jquery&perline=20)]()
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Certifications & Badges
-
-<!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/a196258e-7d57-4f8b-b5c5-c55835c5c6c7" title="GitHub Foundations"><img src="https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/f12f3068-468f-4b19-90c4-bb92bbc881b9" title="Introduction to Cybersecurity Tools & Cyber Attacks"><img src="https://images.credly.com/size/80x80/images/5ed0eac3-8986-4fab-a16b-cab70d4a920e/blob" alt="Introduction to Cybersecurity Tools & Cyber Attacks" width="80" height="80"></a>
-<!--END_SECTION:badges-->
+</details>
