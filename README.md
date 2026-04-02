@@ -49,10 +49,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="25" height="25" /> Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Shatter: One Command to Reclaim Gigabytes of Build Junk Across Every Language You Use](https://dev.to/thelime1/shatter-one-command-to-reclaim-gigabytes-of-build-junk-across-every-language-you-use-445a)
 - [How to Build a Website So Premium People Trust You Instantly](https://dev.to/thelime1/how-to-build-a-website-so-premium-people-trust-you-instantly-48mn)
 - [Building Infinite AI Web: The Journey Begins &lpar;pt1&rpar;](https://dev.to/thelime1/building-infinite-ai-web-the-journey-begins-pt1-1enb)
 - [How to Integrate Your Poe.com Ai Bot into Your Website: A Step-by-Step Guide](https://dev.to/thelime1/how-to-integrate-your-poecom-ai-bot-into-your-website-a-step-by-step-guide-32m3)
-- [My &quot;solution&quot; to integrate ChatGPT into any database](https://dev.to/thelime1/my-solution-to-integrate-chatgpt-into-any-database-8lb)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
