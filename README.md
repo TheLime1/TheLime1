@@ -38,6 +38,10 @@
 - **AI API Reverse Engineering:** Reverse-engineered the Poe API to get free access to ChatGPT Pro and Claude, contributing to [ading2210/poe-api](https://github.com/ading2210/poe-api). I also brute-forced API keys to build [TheLime1/aichat-cli](https://github.com/TheLime1/aichat-cli)—which was the very first "hacked" AI CLI tool available right after ChatGPT released.
 - **Huawei LTE Router Hacking:** Reverse-engineered Huawei LTE routers and contributed core functionality to [Salamek/huawei-lte-api](https://github.com/Salamek/huawei-lte-api). I specifically added endpoints to block MAC addresses just so I could cut the Wi-Fi on other clients whenever I open CS:GO.
 
+<p align="center">
+  🔍 Check out my <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ATheLime1+-user%3ATheLime1+-org%3ATechHive-4SAE11+-org%3AESPRITads+-org%3Atabaani-interns+-org%3ASou9-NFT+-org%3A5ademni+-org%3AProjetCPP2A23+-org%3Aesprit-grp">merged open-source contributions</a>.
+</p>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Socials
 <p align="left">
 
