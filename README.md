@@ -28,9 +28,9 @@
 
 ## 🚀 Current Platforms & Projects
 
-- **Owner & Founder:** Building [espritads.site](https://espritads.site), an expanding SaaS and campus ecosystem. *(~200 TND MMR)*
+- **Owner & Founder:** Building [espritads.site](https://espritads.site), an expanding SaaS and campus ecosystem.
   - **Are you an ESPRIT student?** Check out [portal.espritads.site](https://portal.espritads.site) for an upgraded student dashboard to track grades, schedules, and find empty classrooms.
-- **Indie Game Developer:** Released my first game, **Auto Blocks**, on the s&box platform. Built an automation-inspired puzzle game featuring progression systems, bots, upgrades, quests, and leaderboards. *(~$150 MMR)*
+- **Indie Game Developer:** Released my first game, **Auto Blocks**, on the s&box platform. Built an automation-inspired puzzle game featuring progression systems, bots, upgrades, quests, and leaderboards.
   - 🎮 Play here: https://sbox.game/limestudio/auto_blocks
 
 ## 🛠️ Stuff I Enjoyed Making
